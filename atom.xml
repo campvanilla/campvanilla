@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CampVanilla</title>
+  <subtitle>Tech stuff, tutorials et al.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://campvanilla.com/"/>
+  <updated>2016-09-28T18:14:08.159Z</updated>
+  <id>http://campvanilla.com/</id>
+  
+  <author>
+    <name>Abinav Seelan, Aditi Mohanty</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Post</title>
+    <link href="http://campvanilla.com/2016/09/28/first-post/"/>
+    <id>http://campvanilla.com/2016/09/28/first-post/</id>
+    <published>2016-09-28T12:43:28.000Z</published>
+    <updated>2016-09-28T18:14:08.159Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Our-First-Post"><a href="#Our-First-Post" class="headerlink" title="Our First Post!"></a>Our First Post!</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Our-First-Post&quot;&gt;&lt;a href=&quot;#Our-First-Post&quot; class=&quot;headerlink&quot; title=&quot;Our First Post!&quot;&gt;&lt;/a&gt;Our First Post!&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="Test" scheme="http://campvanilla.com/tags/Test/"/>
+    
+      <category term="Campvanilla" scheme="http://campvanilla.com/tags/Campvanilla/"/>
+    
+  </entry>
+  
+</feed>
